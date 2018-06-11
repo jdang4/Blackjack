@@ -36,7 +36,7 @@ public class Main {
 			if (aceDecision.toUpperCase().equals("Y")) {
 				aceValueOne = false;
 			}
-		}
+		} 
 		
 		// want to separate the score from the user's hand to handle
 		// the case if the user wants to have different values of aces within
